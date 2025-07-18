@@ -24,7 +24,7 @@
 	</parent>
 	<properties>
 		<!-- Apache公共基础组件 -->
-		<commons-lang3.version>3.4</commons-lang3.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
 		<!-- Apache公共网络组件 -->
 		<commons-net.version>3.4</commons-net.version>
 		<!-- Apache公共IO组件 -->
