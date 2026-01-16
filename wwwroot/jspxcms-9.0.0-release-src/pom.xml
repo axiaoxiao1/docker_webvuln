@@ -50,7 +50,7 @@
 		<!-- 用户代理解析组件。分析用户浏览器类型、操作系统等信息 -->
 		<UserAgentUtils.version>1.20</UserAgentUtils.version>
 		<!-- 微信组件 -->
-		<weixin4j.version>1.7.4</weixin4j.version>
+		<weixin4j.version>1.10.0</weixin4j.version>
 		<!-- Markdown解析组件 -->
 		<!-- <pegdown.version>1.6.0</pegdown.version> -->
 		<!-- 纯Java的图片处理组件 -->
